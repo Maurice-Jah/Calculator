@@ -1,0 +1,9 @@
+{
+  "name": "Awesome Calculator",
+  "short-name": "Calculator",
+  "theme_color": "#FFFFFF",
+  "background_color": "#FFFFFF",
+  "start_url": "/calculator-app/",
+  "display": "standalone",
+  "orientation": "potrait"
+}
